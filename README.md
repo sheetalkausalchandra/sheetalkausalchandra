@@ -1,12 +1,8 @@
 ---
-
 # 👋 Hey, I'm Sheetal  
-
 ---
-
 💻 Java Developer with **3 years of experience** in Core Java, Spring Boot, and Microservices.  
 Specialized in **application maintenance, enhancements, and production bug fixes**, with a proven track record of improving **performance, reliability, and security** of enterprise applications.  
-
 ---
 ## 🚀 Key Skills  
 
@@ -29,18 +25,15 @@ Specialized in **application maintenance, enhancements, and production bug fixes
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microservices&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white)  
 
 ---
-
 ## 🛠️ What I Do  
 - 🔹 Build **scalable microservices** using Spring Boot  
 - 🔹 Develop and maintain **RESTful APIs**  
 - 🔹 Work on **application enhancements, performance optimization, and bug fixing**  
 - 🔹 Collaborate in **Agile teams** for smooth software delivery  
-
 ---
 
 ## 🌍 Domain Expertise  
 - Application Maintenance & Enhancements  
 - Production Support & Debugging  
 - Enterprise Application Performance Optimization  
-
 ---
