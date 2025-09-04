@@ -2,7 +2,7 @@
 
 💻 Java Developer with **3 years of experience** in Core Java, Spring Boot, and Microservices.  
 Specialized in **application maintenance, enhancements, and production bug fixes**, with a proven track record of improving **performance, reliability, and security** of enterprise applications.  
----
+
 ## 🚀 Key Skills  
 
 ### Programming Languages  
